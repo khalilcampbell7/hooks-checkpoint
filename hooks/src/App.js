@@ -46,7 +46,7 @@ function App() {
                 Category: {product.category}
                 <br />
                 Price: {product.default_price}
-                {/* Mandatory Requirement 3: Make each product clickable so that when clicked, it displays an image from the API for that product*/}
+                {/* Mandatory Requirement 4: Make each product clickable so that when clicked, it displays an image from the API for that product*/}
                 <br />
                 Image: <img src={img}></img>
               </p>
