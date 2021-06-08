@@ -3,7 +3,6 @@ import React, { useEffect, useState } from 'react';
 import Accordion from '@material-ui/core/Accordion';
 import AccordionSummary from '@material-ui/core/AccordionSummary';
 import AccordionDetails from '@material-ui/core/AccordionDetails';
-import { TextField, Button, IconButton } from '@material-ui/core';
 
 function App() {
   //Mandatory Requirement 1: Make an API call to get a product list
